@@ -1,5 +1,3 @@
-NOBODY EXPECTS THE SPANISH INQUISITION
-Let's gogogogogogogogogogogogogo
 import React from "react";
 import { API } from "aws-amplify";
 
