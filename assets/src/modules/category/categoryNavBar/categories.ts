@@ -1,3 +1,4 @@
+//Name: Ethan O'Sullivan | ID: 1539567
 //
 export const categories = {
   cooks: "Cookbooks",
