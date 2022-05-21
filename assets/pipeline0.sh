@@ -1,3 +1,4 @@
+#welp I've been editing this file. Gotta go change the actual file.
 echo "(1) Build the application"
 npm install
 
