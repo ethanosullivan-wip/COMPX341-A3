@@ -27,7 +27,7 @@ fi
 echo "(2) Release (commit and push to repo)"
 
 git commit -a -m "$1"
-git push
+git push https://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@github.com/ethanosullivan-wip/COMPX341-A3.git
 
 echo "(3) Deploy application (on localhost)"
 npm run start
