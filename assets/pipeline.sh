@@ -12,7 +12,6 @@ echo "(2) Release (commit to repo)"
 
 git commit -a -m "COMPX341-22A-A3 Committing from CI/CD Pipeline"
 #vi makes -a and -m invisible, which sucks, but they're still there so we good
-COMPX341-22A-A3 Committing from CI/CD Pipeline
 
 echo "(3) Deploy application (on localhost)"
 npm run start
