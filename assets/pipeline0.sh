@@ -1,4 +1,5 @@
-#welp I've been editing this file. Gotta go change the actual file.
+#THIS IS NOT THE PIPELINE USED IN ASSIGNMENT
+#Should probably just delete it just had it here for reference
 echo "(1) Build the application"
 npm install
 

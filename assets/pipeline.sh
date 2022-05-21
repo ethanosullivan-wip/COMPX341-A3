@@ -24,11 +24,10 @@ else
 	exit
 fi
 
-echo "(2) Release (commit to repo)"
+echo "(2) Release (commit and push to repo)"
 
 git commit -a -m "$1"
-
-#vi makes -a and -m invisible (at least in powershell oof), which sucks, but they're still there so we good
+git push
 
 echo "(3) Deploy application (on localhost)"
 npm run start
